@@ -1,0 +1,283 @@
+﻿[*] Start Collection: CategoryId 4234 ~ 4244
+
+[*] Moving to Category 4234...
+   [+] Collected 18 URLs
+
+[*] Moving to Category 4235...
+   [+] Collected 18 URLs
+
+[*] Moving to Category 4236...
+   [+] Collected 6 URLs
+
+[*] Moving to Category 4237...
+   [+] Collected 4 URLs
+
+[*] Moving to Category 4238...
+   [+] Collected 6 URLs
+
+[*] Moving to Category 4239...
+   [+] Collected 18 URLs
+
+[*] Moving to Category 4240...
+   [+] Collected 2 URLs
+
+[*] Moving to Category 4241...
+   [+] Collected 30 URLs
+
+[*] Moving to Category 4242...
+   [+] Collected 14 URLs
+
+[*] Moving to Category 4243...
+   [+] Collected 22 URLs
+
+[*] Moving to Category 4244...
+   [+] Collected 6 URLs
+
+1. Loading and structuring data... (72 URLs)
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B2%9C%EA%B3%84
+      [+] Collected: [천계]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%83%B5
+      [+] Collected: [스타일 샵]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B2%80%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 검성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%82%A0%EA%B0%9C
+      [+] Collected: [날개]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B5%90%ED%99%98%EC%86%8C
+      [+] Collected: [교환소]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%A7%8C%EC%8B%A0%EC%A0%84
+      [+] Collected: [만신전]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%88%98%ED%98%B8%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 수호성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B1%84%ED%8C%85
+      [+] Collected: [채팅]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%9E%AD%ED%82%B9
+      [+] Collected: [랭킹]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%95%EB%A0%B9%EC%84%B1
+      [+] Collected: [정령성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B0%81%EC%84%B1%EC%A0%84
+      [+] Collected: [각성전]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%9E%A5%EB%B9%84
+      [+] Collected: [장비]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%A7%88%EA%B3%84
+      [+] Collected: [마계]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%8D%B0%EB%B0%94%EB%8B%88%EC%98%A8
+      [+] Collected: [데바니온]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B1%B0%EB%9E%98%EC%86%8C
+      [+] Collected: [거래소]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%9D%BC%EC%9D%BC%20%EB%8D%98%EC%A0%84
+      [+] Collected: [일일 던전]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%84%EC%9E%A5
+      [+] Collected: [전장]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%B3%B4%EA%B8%89%20%EC%9D%98%EB%A2%B0
+      [+] Collected: [보급 의뢰]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B2%80%EC%84%B1
+      [+] Collected: [검성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=PK%20%EB%B0%8F%20%EA%B2%B0%ED%88%AC
+      [+] Collected: [PK 및 결투]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%86%8C%EA%B0%9C
+      [+] Collected: [클래스 소개]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%86%A0%EB%B2%8C%EC%A0%84
+      [+] Collected: [토벌전]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%98%B7%EC%9E%A5
+      [+] Collected: [옷장]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%B4%89%EC%9D%B8%20%EB%8D%98%EC%A0%84%20%EB%B0%8F%20%EC%A3%BC%EB%91%94%EC%A7%80
+      [+] Collected: []
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%B0%94%EB%9E%8C%EA%B8%B8%20%EB%B0%8F%20%EC%9A%A9%EC%98%A4%EB%A6%84%20%EC%8B%9C%EC%8A%A4%ED%85%9C
+      [+] Collected: [바람길 및 용오름 시스템]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%95%EB%A0%B9%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 정령성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%B4%89%ED%98%BC%EC%84%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C
+      [+] Collected: [봉혼석 시스템]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%8E%AB
+      [+] Collected: [펫]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%97%85%EC%A0%81
+      [+] Collected: [업적]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B4%88%EC%9B%94
+      [+] Collected: [초월]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%82%B4%EC%84%B1
+      [+] Collected: [살성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B8%B0%EB%B3%B8%20%EC%95%88%EB%82%B4
+      [+] Collected: [아이템 기본 안내]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%96%B4%EB%B9%84%EC%8A%A4
+      [+] Collected: [어비스]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%82%AC%EB%A7%9D%20%EB%B0%8F%20%EB%B6%80%ED%99%9C
+      [+] Collected: [사망 및 부활]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%99%9C%EA%B0%95%20%EB%B0%8F%20%EB%B9%84%ED%96%89%20%EC%8B%9C%EC%8A%A4%ED%85%9C
+      [+] Collected: [활강 및 비행 시스템]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B8%B0%ED%83%80%20%EC%95%84%EC%9D%B4%ED%85%9C
+      [+] Collected: [기타 아이템]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%AA%A8%EB%85%B8%EB%A6%AC%EC%8A%A4
+      [+] Collected: [모노리스]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%8A%A4%ED%82%AC%20%EC%86%8C%EA%B0%9C
+      [Skill Parsing] Detected skill page: 스킬 소개
+      [DEBUG] Headers: ['단축키 ( K ) 혹은 우측 상단 스킬 아이콘을 클릭하여 스킬 목록을 확인할 수 있습니다.']
+      [DEBUG] '명칭' header not found, skipping table
+      [+] Collected: [스킬 소개]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%A7%88%EB%8F%84%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 마도성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%A7%88%EB%8F%84%EC%84%B1
+      [+] Collected: [마도성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B0%A8%EC%9B%90%20%EC%B9%A8%EA%B3%B5%20%EC%86%8C%EA%B0%9C
+      [+] Collected: [차원 침공 소개]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B6%81%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 궁성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%98%B8%EB%B2%95%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 호법성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+python : Traceback (mo
+st recent call last):
+위치 줄:1 문자:1
++ python crawling_guid
+ebook_local.py 2>&1 | 
+Out-File -Encoding UTF
+8 deb ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpecifi
+ed: (T    raceback (mo
+st recent     call las
+t)::String)     [], Re
+moteException
+    + FullyQualifiedEr
+ror    Id : NativeComm
+andErr    or
+ 
+  File "D:\py_work\rag
+_test13\crawling_guide
+book_local.py", line 2
+06, in <module>
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B0%90%EC%A0%95%ED%91%9C%ED%98%84
+      [+] Collected: [감정표현]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%80%98%EC%8A%A4%ED%8A%B8%20%EC%A2%85%EB%A5%98
+      [+] Collected: [퀘스트 종류]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%ED%84%B0
+      [+] Collected: [내비게이터]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%8C%8C%ED%8B%B0%20%EB%B0%8F%20%ED%8F%AC%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C
+      [+] Collected: [파티 및 포스 시스템]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%80%EB%84%90%20%EC%86%8C%EA%B0%9C
+      [+] Collected: [저널 소개]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%95%EA%B8%B0%EC%B6%94%EC%B6%9C
+      [+] Collected: [정기추출]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%84%B1%EC%97%AD
+      [+] Collected: [성역]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%86%B5%ED%95%A9%20%EA%B0%95%ED%99%94
+      [+] Collected: [통합 강화]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC
+      [+] Collected: [친구 관리]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B9%98%EC%9C%A0%EC%84%B1
+      [+] Collected: [치유성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%8B%9C%EC%A6%8C
+      [+] Collected: [시즌]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%95%85%EB%AA%BD
+      [+] Collected: [악몽]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B6%81%EC%84%B1
+      [+] Collected: [궁성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%B9%98%EC%9C%A0%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 치유성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%88%AC%EA%B8%B0%EC%9E%A5
+      [+] Collected: [투기장]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%A0%88%EA%B8%B0%EC%98%A8
+      [+] Collected: [레기온]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%95%84%EB%93%9C%20%EB%84%A4%EC%9E%84%EB%93%9C
+      [+] Collected: [필드 네임드]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%96%B4%EB%B9%84%EC%8A%A4%20%EC%97%90%EB%A0%88%EC%8A%88%EB%9E%80%ED%83%80
+      [+] Collected: [어비스 에레슈란타]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%95%84%EB%A5%B4%EC%B9%B4%EB%82%98
+      [+] Collected: [아르카나]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EB%AC%BC%EC%A7%88%20%EB%B3%80%ED%99%98
+      [+] Collected: [물질 변환]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%82%B4%EC%84%B1%20%EC%8A%A4%ED%82%AC
+      [Skill Parsing] Detected skill page: 살성 스킬
+      [DEBUG] Headers: ['아이콘', '명칭', '설명', '비고']
+      [+] Structured 12 skills
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%98%B8%EB%B2%95%EC%84%B1
+      [+] Collected: [호법성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%ED%83%80%EC%9D%B4%ED%8B%80
+      [+] Collected: [타이틀]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%9B%90%EC%A0%95
+      [+] Collected: [원정]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%88%98%ED%98%B8%EC%84%B1
+      [+] Collected: [수호성]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%8A%88%EA%B3%A0%20%ED%8E%98%EC%8A%A4%ED%83%80
+    process_and_save_d
+ocs(target_urls)
+      [+] Collected: [슈고 페스타]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%A0%9C%EC%9E%91%20%EA%B4%80%EB%A6%AC
+      [+] Collected: [제작 관리]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EA%B5%AC%EB%8F%85%20%EB%B0%8F%20%ED%8C%A8%EC%8A%A4
+      [+] Collected: [구독 및 패스]
+   -> Accessing: https://aion2.plaync.com/ko-kr/guidebook/view?title=%EC%9A%B0%ED%8E%B8
+      [+] Collected: [우편]
+
+2. Saving local file... (guide_docs.json)
+   [+] Local save complete!
+
+3. Splitting text and uploading to Pinecone...
+   - Split 160 docs into 180 chunks
+   - Pinecone Index: 'aion2-guide-rag'
+  File "D:\py_work\rag
+_test13\crawling_guide
+book_local.py", line 1
+97, in process_and_sav
+e_docs
+    embeddings = OpenA
+IEmbeddings(model="tex
+t-embedding-3-small")
+                 ^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\moons
+eed\.pyenv\pyenv-win\v
+ersions\3.11.9\Lib\sit
+e-packages\pydantic\ma
+in.py", line 250, in _
+_init__
+    validated_self = s
+elf.__pydantic_validat
+or__.validate_python(d
+ata, self_instance=sel
+f)
+                     ^
+^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+^^
+  File "C:\Users\moons
+eed\.pyenv\pyenv-win\v
+ersions\3.11.9\Lib\sit
+e-packages\langchain_o
+penai\embeddings\base.
+py", line 366, in vali
+date_environment
+    self.async_client 
+= openai.AsyncOpenAI(
+                      
+  ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\moons
+eed\.pyenv\pyenv-win\v
+ersions\3.11.9\Lib\sit
+e-packages\openai\_cli
+ent.py", line 488, in 
+__init__
+    raise OpenAIError(
+openai.OpenAIError: Th
+e api_key client optio
+n must be set either b
+y passing api_key to t
+he client or by settin
+g the OPENAI_API_KEY e
+nvironment variable
